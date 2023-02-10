@@ -1,6 +1,6 @@
 # todo-list
 
-todo-list -> Organise your day 
+ToDo-List - Organise your day 
 
 This is a simple todolist web application system to manage to-dos implemented with NodeJs, Express, lodash, Ejs and Mongoose.
 
