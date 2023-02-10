@@ -1,4 +1,4 @@
-# todo-list
+# ToDo-List
 
 ToDo-List - Organise your day 
 
